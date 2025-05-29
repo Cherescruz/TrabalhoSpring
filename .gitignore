@@ -1,0 +1,19 @@
+# Build
+/target
+*.jar
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup
+*~
